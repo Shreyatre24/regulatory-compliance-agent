@@ -1,0 +1,5 @@
+[SAMPLE — replace with your own product/process description]
+
+Product: an internal document-drafting assistant that generates compliance
+summaries from templates. It stores generated documents and the prompts used.
+It does not currently expose a written statement of its known limitations.

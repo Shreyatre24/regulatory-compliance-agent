@@ -1,0 +1,6 @@
+python-dotenv>=1.0
+# Pick ONE model client when you wire up the LLM steps (Planner + Writer):
+# openai>=1.0
+# anthropic>=0.39
+# For reading real regulation PDFs later (v0.2):
+# pypdf>=4.0

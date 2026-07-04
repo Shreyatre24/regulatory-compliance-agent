@@ -1,0 +1,10 @@
+[SAMPLE — replace with a real public regulation, see data/README.md]
+
+Article 1 — Scope. This regulation applies to systems that process personal data
+and to products placed on the market that include automated decision-making.
+
+Article 2 — Transparency. Providers shall make available clear documentation
+describing the system's intended purpose and its known limitations.
+
+Article 3 — Record-keeping. Providers shall keep logs sufficient to trace the
+system's behaviour for a period appropriate to its risk.
