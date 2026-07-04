@@ -9,7 +9,7 @@ versioned, reproducible runs.
 > This is the public, from-scratch sibling of that work, built on openly available regulations
 > (e.g. UN/ECE vehicle-homologation regulations, the EU AI Act, GDPR) so anyone can run it.
 >
-> _TODO(you): replace this quote with one honest sentence in your own voice + a link to your LinkedIn._
+>I worked on a homologation data to create a pipeline where I was able to incorporate GenAI(LLMs) into an existing legacy workflow, I am passionate about such works and here is my Linkedin: www.linkedin.com/in/shrey-atre-241096ks
 
 ## Why
 
@@ -50,4 +50,4 @@ Honest status is a feature: it shows how the system is designed, not just what's
 
 ## License
 
-MIT — _TODO(you): keep or change._
+MIT
