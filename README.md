@@ -9,7 +9,7 @@ versioned, reproducible runs.
 > This is the public, from-scratch sibling of that work, built on openly available regulations
 > (e.g. UN/ECE vehicle-homologation regulations, the EU AI Act, GDPR) so anyone can run it.
 >
->I worked on a homologation data to create a pipeline where I was able to incorporate GenAI(LLMs) into an existing legacy workflow, I am passionate about such works and here is my Linkedin: www.linkedin.com/in/shrey-atre-241096ks
+>I built a pipeline that brought GenAI/LLMs into an existing legacy homologation workflow. I'm passionate about this kind of work. More of me here: www.linkedin.com/in/shrey-atre-241096ks
 
 ## Why
 
