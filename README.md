@@ -24,7 +24,7 @@ assessment per requirement, and validates the output against a fixed schema — 
 ```
 regulation.txt ─┐
                 ├─▶ Planner ─▶ [requirements] ─▶ Retriever(RAG) ─▶ Writer ─▶ Validator ─▶ Run store
-product.txt   ─┘                                                                          (versioned)
+product.txt    ─┘                                                                          (versioned)
 ```
 
 Full design in [ARCHITECTURE.md](ARCHITECTURE.md).
